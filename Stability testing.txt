@@ -1,0 +1,2 @@
+From ~ 19:00 17/3/17 Excitation=1 mV, Integration=10 s @ Tbath=80 mK
+From ~ 00:07 18/3/17 Excitation=300 uV, Integration=3 s @ Tbath=80 mK
